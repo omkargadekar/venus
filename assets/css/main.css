@@ -7800,6 +7800,18 @@ footer .copyright a {
     height: 100%;
     width: 100%;
 }
+.header-breadcrumb-six{
+    padding: 140px 0;
+    background-image: url('https://images.unsplash.com/photo-1506765515384-028b60a970df?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-position: 0px -400px;
+    min-height: 100%;
+    position: relative !important;
+    background-size: cover !important;
+    /* background-position: center !important; */
+    background-repeat: no-repeat !important;
+    height: 100%;
+    width: 100%;
+}
 .header-breadcrumb-two {
     padding: 40px 0;
     min-height: 100%;
@@ -7833,7 +7845,7 @@ footer .copyright a {
     margin-bottom: 0px;
     line-height: 50px;
 }
-.header-breadcrumb-threee .page-title-heading, .header-breadcrumb-twoo .page-title-heading, .header-breadcrumb-fourr .page-title-heading, .header-breadcrumb-fivee .page-title-heading {
+.header-breadcrumb-threee .page-title-heading, .header-breadcrumb-twoo .page-title-heading, .header-breadcrumb-fourr .page-title-heading, .header-breadcrumb-fivee .page-title-heading, .header-breadcrumb-six .page-title-heading{
     color: #fff;
 position: relative;
 text-transform: capitalize;
@@ -7860,7 +7872,7 @@ line-height: 50px;
 }
 
 .header-breadcrumb .breadcrumb,
-.header-breadcrumb-two .breadcrumb, .header-breadcrumb-twoo .breadcrumb, .header-breadcrumb-threee .breadcrumb, .header-breadcrumb-fourr .breadcrumb, .header-breadcrumb-fivee .breadcrumb {
+.header-breadcrumb-two .breadcrumb, .header-breadcrumb-twoo .breadcrumb, .header-breadcrumb-threee .breadcrumb, .header-breadcrumb-fourr .breadcrumb, .header-breadcrumb-fivee .breadcrumb , .header-breadcrumb-six .breadcrumb {
     text-align: left;
     padding: 0;
     background: none;
@@ -7872,7 +7884,7 @@ line-height: 50px;
 }
 
 .header-breadcrumb .breadcrumb li,
-.header-breadcrumb-two .breadcrumb li, .header-breadcrumb-twoo .breadcrumb li , .header-breadcrumb-threee .breadcrumb li , .header-breadcrumb-fourr .breadcrumb li, .header-breadcrumb-fivee .breadcrumb li {
+.header-breadcrumb-two .breadcrumb li, .header-breadcrumb-twoo .breadcrumb li , .header-breadcrumb-threee .breadcrumb li , .header-breadcrumb-fourr .breadcrumb li, .header-breadcrumb-fivee .breadcrumb li , .header-breadcrumb-six .breadcrumb li {
     display: inline-block;
     position: relative;
     padding-right: 5px;
